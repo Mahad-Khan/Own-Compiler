@@ -1,0 +1,4 @@
+System.Windows.Forms.RichTextBox, Text: (Fun,fun,1)
+(ID,void,1)
+(ID,add,1)
+((,(,...

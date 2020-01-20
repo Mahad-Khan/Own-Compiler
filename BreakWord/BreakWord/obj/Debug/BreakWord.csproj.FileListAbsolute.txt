@@ -1,0 +1,10 @@
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\bin\Debug\BreakWord.exe.config
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\bin\Debug\BreakWord.exe
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\bin\Debug\BreakWord.pdb
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.csprojAssemblyReference.cache
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.Form1.resources
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.Properties.Resources.resources
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.csproj.GenerateResource.cache
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.csproj.CoreCompileInputs.cache
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.exe
+C:\Users\Mahad Khan\source\repos\BreakWord\BreakWord\obj\Debug\BreakWord.pdb
